@@ -22,4 +22,23 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <contributors>
+    <contributor>
+      <name>John</name>
+      <email>johnwjacobi@gmail.com</email>
+      <url>https://plus.google.com/105862635715568601045/about</url>
+      <organization>John Jacobi</organization>
+      <organizationUrl>https://plus.google.com/105862635715568601045/about</organizationUrl>
+      <roles>
+        <role>developer</role>
+        <role>maintainer</role>
+        <role>sushi lover !!!</role>
+      </roles>
+      <timezone>America/New York</timezone>
+      <properties>
+        <picUrl>https://lh6.googleusercontent.com/ZORxKBYw2uShcAHF-1mJtkjPpetJosN5fSUFIH7NI0c=s207-p-no</picUrl>
+      </properties>
+    </contributor>
+  </contributors>
 </project>
